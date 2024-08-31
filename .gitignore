@@ -1,0 +1,17 @@
+.idea/*
+!.idea/runConfigurations/
+*.iml
+*.ipr
+*.iws
+/bin/
+/.settings/
+/.gradle/
+# 项目排除路径
+/build/
+/run/
+src.tar.gz
+rebel.xml
+*.zip
+/src/rebel.xml
+/out/*
+
